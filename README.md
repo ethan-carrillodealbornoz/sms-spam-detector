@@ -49,3 +49,4 @@ flowchart LR
 - `notebooks/`: Explicación teórica paso a paso y análisis exploratorio de datos.
 - `src/`: Código modularizado para preprocesamiento y entrenamiento.
 - `models/`: Artefacto del modelo entrenado (`.joblib`).
+- `data/`: Dataset utilizado para el entrenamiento.
