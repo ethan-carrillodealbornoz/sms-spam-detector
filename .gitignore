@@ -1,0 +1,15 @@
+# Caché de Jupyter Notebooks (se ignorará en cualquier subcarpeta)
+.ipynb_checkpoints/
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+
+# Archivos pesados o datos temporales si no quieres subirlos
+# (Si quieres subir el modelo .joblib a GitHub quita la siguiente línea):
+# models/*.joblib
