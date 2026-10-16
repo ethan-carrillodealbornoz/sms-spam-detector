@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
+![NLTK](https://img.shields.io/badge/NLP-NLTK%20%26%20Naive%20Bayes-green)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # SMS Spam Detector (NLP & Naive Bayes)
 
 Sistema de clasificación de mensajes SMS en tiempo real (*Spam* vs. *Ham*) utilizando procesamiento de lenguaje natural (NLP) y el algoritmo **Multinomial Naive Bayes**, optimizado mediante `GridSearchCV` y empaquetado en una *Pipeline* de Scikit-Learn.
