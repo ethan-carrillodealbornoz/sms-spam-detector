@@ -50,3 +50,7 @@ flowchart LR
 - `src/`: Código modularizado para preprocesamiento y entrenamiento.
 - `models/`: Artefacto del modelo entrenado (`.joblib`).
 - `data/`: Dataset utilizado para el entrenamiento.
+
+## 📜 Licencia
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
